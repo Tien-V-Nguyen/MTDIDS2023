@@ -1,0 +1,8 @@
+server/microPythonBuild/
+client/.idea
+client/env
+*.pyc
+*.pyo
+*.env
+**/.DS_Store
+**/.idea

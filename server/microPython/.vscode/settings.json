@@ -1,0 +1,6 @@
+{
+    "pymakr.misc.notifications": {
+        "ttyACM0 / unknown seems to be busy. Do you wish restart it in safe mode": "No and don't ask again",
+        "Uploading a project will delete all existing files on the device before uploading the project folder. After uploading a project, you can start it by restarting the device. For faster uploads without file deletion, please put the device in dev mode.": "Don't show again"
+    }
+}
